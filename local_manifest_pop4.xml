@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Alcatel Pop 4 -->
+    <project path="device/alcate/pop4" name="milankragujevic/android_device_alcatle_pop4" revision="cm-13.0" />
+    <project path="kernel/alcatel/msm8909" name="milankragujevic/android_kernel_alcatel_msm8909" revision="cm-13.0" />
+    <project path="vendor/alcatel" name="milankragujevic/proprietary_vendor_alcatel" revision="cm-13.0" />
+
+    <!-- LineageOS dependencies -->
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-13.0" />
+    <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-13.0" />
+</manifest>
