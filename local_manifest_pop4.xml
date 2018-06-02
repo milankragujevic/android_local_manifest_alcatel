@@ -8,5 +8,4 @@
     <!-- LineageOS dependencies -->
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-13.0" />
     <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-13.0" />
-    <project path="hardware/qcom/fm" name="LineageOS/android_hardware_qcom_fm" revision="cm-13.0" />
 </manifest>
